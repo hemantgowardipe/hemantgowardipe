@@ -64,11 +64,12 @@ Here are some of the projects I have worked on:
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantgowardipe&show_icons=true&theme=radical" alt="Hemant's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantgowardipe&count_private=true&show_icons=true&theme=radical" alt="Hemant's GitHub Stats" width="400"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantgowardipe&theme=radical" alt="Hemant's GitHub Streak" width="400"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantgowardipe&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <br>
 </div>
 
 ## 📫 Contact Me
@@ -81,4 +82,4 @@ Feel free to reach out to me via:
 Thanks for visiting my profile!
 
 Hemant Gowardipe
-2025-02-23 11:22:01
+2025-02-24 09:22:56
