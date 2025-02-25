@@ -49,6 +49,7 @@ Here are some of the projects I have worked on:
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![jQuery UI](https://img.shields.io/badge/-jQuery%20UI-0769AD?style=flat&logo=jquery&logoColor=white)
 ![PHPMailer](https://img.shields.io/badge/-PHPMailer-007BFF?style=flat&logo=php&logoColor=white)
+![daisyUI](https://img.shields.io/badge/-daisyUI-38B2AC?style=flat&logo=daisyui&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -70,6 +71,7 @@ Here are some of the projects I have worked on:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantgowardipe&layout=compact&theme=radical" alt="Top Languages" width="400"/>
   <br>
+  **Total Commits**: 0 <!-- This will be dynamically updated by the GitHub Action -->
 </div>
 
 ## 📫 Contact Me
@@ -82,4 +84,4 @@ Feel free to reach out to me via:
 Thanks for visiting my profile!
 
 Hemant Gowardipe
-2025-02-24 09:22:56
+2025-02-25 10:31:19
