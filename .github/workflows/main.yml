@@ -17,7 +17,8 @@ jobs:
       - name: Calculate Total Commits
         id: commits
         run: |
-          echo "TOTAL_COMMITS=$(git rev-list --count HEAD)" >> $GITHUB_ENV
+          TOTAL_COMMITS=$(git rev-list --count HEAD)
+          echo "TOTAL_COMMITS=${TOTAL_COMMITS}" >> $GITHUB_ENV
 
       - name: Update README
         run: |
