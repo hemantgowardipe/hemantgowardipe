@@ -1,90 +1,36 @@
-# Hi there, I'm Hemant Gowardipe! 👋
+<h1 align="center">Hi 👋, I'm Hemant Gowardipe</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-<div align="center">Welcome to my GitHub profile!</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantgowardipe&label=Profile%20views&color=0e75b6&style=flat" alt="hemantgowardipe" /> </p>
 
-## 🧑‍💻 About Me
-I am a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving problems and building efficient and scalable solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantgowardipe" alt="hemantgowardipe" /></a> </p>
 
-## 🚀 Projects
-### Real-Time File Management System
-```mermaid
-graph TD;
-    A[Real-Time File Management System] --> B[Technologies Used: PHP, MySQL, JavaScript, jQuery UI, Bootstrap 5];
-    A --> C[Features];
-    C --> D[Real-time file uploads and management];
-    C --> E[Secure file sharing with role-based access control RBAC];
-    C --> F[Instant synchronization across devices];
-    C --> G[Powerful admin panel for user management and monitoring];
-    C --> H[Optimized for speed and scalability];
-```
+- 🔭 I’m currently working on [DocuMentor - Cognitive AI Assistant — An AI-powered platform for real-time document summarization and Q&A.](https://ai-chatbot-one-mauve.vercel.app/)
 
-### EZshop
-```mermaid
-graph TD;
-    A[EZshop] --> B[Technologies Used: PHP, MySQL, JavaScript, jQuery, HTML5, CSS, Bootstrap 5];
-    A --> C[Features];
-    C --> D[Dynamic product grids];
-    C --> E[User authentication];
-    C --> F[Shopping cart];
-    C --> G[Secure checkout process];
-    C --> H[Basic admin panel];
-    C --> I[Responsive and user-friendly design];
-```
+- 🌱 I’m currently learning **Generative AI, HPC systems, and advanced backend optimizations.**
 
-## 🛠️ Skills
-### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- 👯 I’m looking to collaborate on **AI-based productivity tools and scalable full-stack applications.**
 
-### Frameworks
-![AJAX](https://img.shields.io/badge/-AJAX-00599C?style=flat&logo=ajax&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- 🤝 I’m looking for help with **Optimizing AI models for real-time applications.**
 
-### Libraries
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![jQuery UI](https://img.shields.io/badge/-jQuery%20UI-0769AD?style=flat&logo=jquery&logoColor=white)
-![PHPMailer](https://img.shields.io/badge/-PHPMailer-007BFF?style=flat&logo=php&logoColor=white)
-![daisyUI](https://img.shields.io/badge/-daisyUI-38B2AC?style=flat&logo=daisyui&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- 👨‍💻 All of my projects are available at [https://github.com/hemantgowardipe](https://github.com/hemantgowardipe)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitBash](https://img.shields.io/badge/-GitBash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-1A1A1A?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-1E90FF?style=flat&logo=github&logoColor=white)
+- 💬 Ask me about **React, Vue, GSAP, Flask, and AI integration in web apps.**
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+- 📫 How to reach me **hemantgowardipe442@gmail.com**
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantgowardipe&count_private=true&show_icons=true&theme=radical" alt="Hemant's GitHub Stats" width="450"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantgowardipe&theme=radical" alt="Hemant's GitHub Streak" width="450"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemantgowardipe&theme=radical" alt="Profile Details" width="450"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantgowardipe&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="750"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hemantgowardipe&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="750"/>
-</div>
+- 📄 Know about my experiences [https://portfolio-hemants-projects-d358e985.vercel.app/](https://portfolio-hemants-projects-d358e985.vercel.app/)
 
-## 📫 Contact Me
-Feel free to reach out to me via:
-- **Email**: [rajugowardipe0@gmail.com](mailto:rajugowardipe0@gmail.com)
-- **LinkedIn**: [Hemant Gowardipe](https://www.linkedin.com/in/hemant-gowardipe-96614b24a)
-- **Unstop**: [Hemant Gowardipe](https://unstop.com/u/hemangow24373)
-<div align="center">
-Thanks for visiting my profile!
-  
-**Hemant Gowardipe**
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant-gowardipe-96614b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-gowardipe-96614b24a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantgowardipe&show_icons=true&locale=en&layout=compact" alt="hemantgowardipe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantgowardipe&show_icons=true&locale=en" alt="hemantgowardipe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantgowardipe&" alt="hemantgowardipe" /></p>
