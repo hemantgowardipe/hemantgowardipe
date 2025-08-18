@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemantgowardipe](https://github.com/hemantgowardipe)
 
-- 💬 Ask me about **React, Vue, GSAP, Flask, and AI integration in web apps.**
+- 💬 Ask me about **React, PHP, Flask, and AI integration in web apps.**
 
 - 📫 How to reach me **hemantgowardipe442@gmail.com**
 
