@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantgowardipe" alt="hemantgowardipe" /></a> </p>
 
-- 🔭 I’m currently working on [DocuMentor - Cognitive AI Assistant — An AI-powered platform for real-time document summarization and Q&A.](https://ai-chatbot-one-mauve.vercel.app/)
+- 🔭 I’m currently working on [Unified Acadmic Project Platform](https://uapp.cs25.tech/)
 
 - 🌱 I’m currently learning **Generative AI, HPC systems, and advanced backend optimizations.**
 
