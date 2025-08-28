@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantgowardipe" alt="hemantgowardipe" /></a> </p>
 
-- 🔭 I’m currently working on [Unified Acadmic Project Platform](https://uapp.cs25.tech/)
+- 🔭 I’m currently working on [Unified Acadmic Project Platform](https://unified-academic-project-platform.vercel.app/)
 
 - 🌱 I’m currently learning **Generative AI, HPC systems, and advanced backend optimizations.**
 
