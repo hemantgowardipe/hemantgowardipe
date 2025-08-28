@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hemantgowardipe442@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-hemants-projects-d358e985.vercel.app/](https://portfolio-hemants-projects-d358e985.vercel.app/)
+- 📄 Know about my experiences [https://hemant-portfolio.cse25.tech/](https://hemant-portfolio.cse25.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
